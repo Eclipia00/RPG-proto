@@ -1,0 +1,5 @@
+StageName,EnemyNum,EnemyType,x,y,Portal,x,y
+01-01,3,1,10,10,1,5,5
+,,2,-10,-10,,,
+,,1,10,-10,,,
+end,,,,,,,

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dungeon>
+  <Stage name="1-1"/>
+  <Enemy value="3">
+    <EnemyType name="MiniSlime">
+      <EnemyX value="10"/>
+      <EnemyY value="1"/>
+      <EnemyZ value="10"/>
+    </EnemyType>
+    <EnemyType name="Slime">
+      <EnemyX value="-10"/>
+      <EnemyY value="1"/>
+      <EnemyZ value="-10"/>
+    </EnemyType>
+    <EnemyType name="MiniSlime">
+      <EnemyX value="10"/>
+      <EnemyY value="1"/>
+      <EnemyZ value="-10"/>
+    </EnemyType>
+  </Enemy>
+  <Portal value="1">
+    <PortalX value="5"/>
+    <PortalY value="1"/>
+    <PortalZ value="5"/>
+  </Portal>  
+</Dungeon>
